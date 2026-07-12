@@ -1,9 +1,9 @@
 {
-  "name": "moliya-telegram-bridge",
-  "version": "1.0.0",
-  "private": true,
-  "description": "Shaxsiy moliya kuzatuvchi uchun Telegram bot ko'prigi",
-  "dependencies": {
-    "@vercel/kv": "^2.0.0"
-  }
+    "name": "moliya-telegram-bridge",
+    "version": "1.0.0",
+    "private": true,
+    "description": "Shaxsiy moliya kuzatuvchi uchun Telegram bot ko'prigi",
+    "dependencies": {
+          "pg": "^8.11.3"
+    }
 }
